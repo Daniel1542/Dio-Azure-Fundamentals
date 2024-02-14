@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "d1057c5f-4b67-4828-b8ca-2d22b84b33be",
+  "content-length": "163",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a building with a fence and a sign",
+    "confidence": 0.6666572690010071
+  },
+  "metadata": {
+    "width": 1600,
+    "height": 1200
+  }
+}
