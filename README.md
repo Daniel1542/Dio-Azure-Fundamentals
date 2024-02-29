@@ -27,12 +27,3 @@ Ranking: Cada bootcamp possui um ranking com premiações exclusivas, onde você
 
 ### Repositório destinado às entregas dos desafios de projeto da formação.
 
-
-<div align="center">
-  <p>
-      <img src="https://img.shields.io/github/languages/count/alexklenio/DIO-dotnet-developer"/>
-      <img src="https://img.shields.io/github/repo-size/alexklenio/DIO-dotnet-developer"/>
-      <img src="https://img.shields.io/github/last-commit/alexklenio/DIO-dotnet-developer"/>
-      <img src="https://img.shields.io/github/issues/alexklenio/DIO-dotnet-developer"/>
-  </p> 
-</div>
